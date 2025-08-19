@@ -10,8 +10,8 @@ It provides APIs for device management, analytics, and user activity tracking.
 
 ### 1. Clone the repository
 ```bash
-git clone <your-repo-url>
-cd <your-project-folder>
+git clone https://github.com/hereTariq/device-management
+cd device-management
 ```
 
 ### 2. Install dependencies
